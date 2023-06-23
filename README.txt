@@ -5,7 +5,7 @@ The Starzel Buildout
 .. image:: https://github.com/starzel/buildout/actions/workflows/ci.yml/badge.svg
     :target: https://github.com/starzel/buildout/actions/workflows/ci.yml
 
-This is a standard Plone-buildout of the company `Starzel.de <http://www.starzel.de>`_.
+This is a standard Plone-`buildout <http://www.buildout.org>`_ of the company `Starzel.de <http://www.starzel.de>`_.
 
 .. contents::
 
